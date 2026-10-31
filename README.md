@@ -1,6 +1,6 @@
 # Hi 👋, I'm Anish Roy
 
-#### Building some stuff 
+#### Building some stuff 🛠️🏗️
 
 I am an AI Engineer who has shipped several end-to-end AI projects. My work has focused on engineering reliable AI systems, with an emphasis on quality, reliability, latency, and cost efficiency.
 
@@ -8,9 +8,9 @@ I am an AI Engineer who has shipped several end-to-end AI projects. My work has 
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Anish-Roy" alt="Anish-Roy" /></a> </p> -->
 
-- 🔭 I'm currently working on **post-training of AI agents**
+- 🔭 I'm currently learning and working on **post-training of AI agents** and **self-improving agents**
 
-- 📫 How to reach me **anioff64070@gmail.com**
+- 📬 How to reach me : [Drop me an email](mailto:anioff64070@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
