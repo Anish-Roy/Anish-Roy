@@ -8,7 +8,7 @@ I am an AI Engineer who has shipped several end-to-end AI projects. My work has 
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Anish-Roy" alt="Anish-Roy" /></a> </p> -->
 
-- 🔭 I'm currently learning and working on **post-training of AI agents** and **self-improving agents**
+- 🔭 I'm currently exploring **Inference Engineering**
 
 - 📬 How to reach me : [Drop me an email](mailto:anioff64070@gmail.com)
 
